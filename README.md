@@ -1,8 +1,9 @@
-# A blog made using django and next.js
+## Dogecode, a place for programmers to get together
+### Made using django and next.js
 
 ## Setup instructions
 
-> #### Run `git clone https://github.com/Rashaad1268/django-next-blog.git`
+> #### Run `https://github.com/Sanyok6/Dogecode`
 ----
 
 ### Running the backend
