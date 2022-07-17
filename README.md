@@ -1,5 +1,6 @@
 ## Dogecode, a place for programmers to get together
 ### Made using django and next.js
+*I am sory for the lack of a useable link, I had trouble hosting everything on time. I will update the README as soon as the website is running!*
 
 ## Setup instructions
 
