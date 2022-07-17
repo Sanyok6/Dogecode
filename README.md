@@ -3,7 +3,7 @@
 
 ## Setup instructions
 
-> #### Run `https://github.com/Sanyok6/Dogecode`
+> #### Run `git clone https://github.com/Sanyok6/Dogecode`
 ----
 
 ### Running the backend
